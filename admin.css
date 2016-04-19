@@ -1,0 +1,33 @@
+a.logout
+{
+	position:absolute;
+	top:0px; right:0px;
+	font-size:20px;
+	text-decoration:none;
+	color:black;
+}
+
+a.logout:hover
+{
+	background:orange;
+	color:red;
+}
+
+
+div.ext
+{
+	height : 200px ; width : 95% ;
+	border: 5px solid black; border-radius: 25px;
+	margin: 10px; padding-left: 10px;
+
+}
+
+
+table.foot
+{
+	font-family:Georgia;
+	height: 100px;
+	width: 100%;
+	text-align: center;
+	
+}
